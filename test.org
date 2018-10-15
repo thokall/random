@@ -1,0 +1,2 @@
+* Org files are often read as they should
+This should look like any markdown at github.com
